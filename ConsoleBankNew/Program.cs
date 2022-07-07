@@ -33,7 +33,6 @@ namespace ConsoleBankNew
         }
 
 
-
         #region Text Color
         /// <summary>
         /// Цвет текста
